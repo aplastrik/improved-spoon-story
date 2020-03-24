@@ -1,0 +1,23 @@
+[33mcommit 32268d8a6c7c757cc197857d3ba094403d1dd2dd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Alex Plastrik <plastrik@royal-19.cs.wisc.edu>
+Date:   Fri Mar 13 13:55:01 2020 -0500
+
+    La Fin
+
+[33mcommit 904b8ca56a4a7a2ce4b79253add779ee9e59ded3[m
+Author: Lin Zhao <linz@royal-05.cs.wisc.edu>
+Date:   Thu Mar 12 22:52:16 2020 -0500
+
+    <Lin Zhao> addition  
+
+[33mcommit 64097cf9bd296d25b6f392eb99857990697e060d[m
+Author: Yijie Shen <yijie@royal-25.cs.wisc.edu>
+Date:   Thu Mar 12 21:46:41 2020 -0500
+
+    Yijie Shen second paragraph addition
+
+[33mcommit b8358b72b74eff59134530780a60d62597785842[m
+Author: Alex Plastrik <plastrik@emperor-06.cs.wisc.edu>
+Date:   Fri Feb 28 16:18:33 2020 -0600
+
+    first paragraph
